@@ -13,5 +13,5 @@ class Textfield_Controller extends ChangeNotifier {
   }
 
   String get getName1 => username1;
-
 }
+ 
